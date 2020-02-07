@@ -1,0 +1,6 @@
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.exe.config
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.exe
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\bin\Debug\CSharpDesignPatterns.pdb
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.csprojAssemblyReference.cache
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.exe
+C:\Users\88013\source\repos\CSharpDesignPatterns\CSharpDesignPatterns\obj\Debug\CSharpDesignPatterns.pdb
