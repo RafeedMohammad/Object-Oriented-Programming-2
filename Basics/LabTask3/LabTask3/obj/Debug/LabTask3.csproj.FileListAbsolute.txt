@@ -1,0 +1,6 @@
+C:\Users\88013\source\repos\LabTask3\LabTask3\bin\Debug\LabTask3.exe.config
+C:\Users\88013\source\repos\LabTask3\LabTask3\bin\Debug\LabTask3.exe
+C:\Users\88013\source\repos\LabTask3\LabTask3\bin\Debug\LabTask3.pdb
+C:\Users\88013\source\repos\LabTask3\LabTask3\obj\Debug\LabTask3.csprojAssemblyReference.cache
+C:\Users\88013\source\repos\LabTask3\LabTask3\obj\Debug\LabTask3.exe
+C:\Users\88013\source\repos\LabTask3\LabTask3\obj\Debug\LabTask3.pdb
